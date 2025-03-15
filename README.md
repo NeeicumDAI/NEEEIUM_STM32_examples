@@ -1,6 +1,6 @@
 # Exemplos de Código para STM32 – NEEEICUM
 
-Este repositório contém exemplos de código para microcontroladores STM32, desenvolvidos pelo **Núcleo de Estudantes de Engenharia Eletrónica  Industrial e Computadores da Universidade do Miho (NEEEICUM)**.
+Este repositório contém exemplos de código para microcontroladores STM32, desenvolvidos pelo **Núcleo de Estudantes de Engenharia Eletrónica  Industrial e Computadores da Universidade do Minho (NEEEICUM)**.
 
 ## 📌 Sobre os Exemplos
 
